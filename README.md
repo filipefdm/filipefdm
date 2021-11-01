@@ -2,7 +2,7 @@
 <h3 align="center">Front-end Developer</h3>
 
 ## Connect with me:
-<a href="https://www.linkedin.com/in/filipe-motta-987329133/" target="_blank">
+<a href="https://www.linkedin.com/in/filipefmotta/" target="_blank">
 <img align="center" alt="diego-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width:100%;">
 </a>
 
