@@ -1,36 +1,72 @@
-<h1 align="center">Hello there! I'm Filipe Motta</h1>
-<h3 align="center">Front-end Developer</h3>
+<h2 align="center">ℍ𝕖𝕝𝕝𝕠 𝕥𝕙𝕖𝕣𝕖!</h1>
+<h3 align="center">𝑀𝓎 𝓃𝒶𝓂𝑒 𝒾𝓈 𝐹𝒾𝓁𝒾𝓅𝑒 𝑀𝑜𝓉𝓉𝒶 𝒶𝓃𝒹 𝐼'𝓂 𝒶 𝐹𝓇𝑜𝓃𝓉-𝑒𝓃𝒹 𝒟𝑒𝓋𝑒𝓁𝑜𝓅𝑒𝓇 💜</h3>
 
-## Connect with me:
-<a href="https://www.linkedin.com/in/filipefmotta/" target="_blank">
-<img align="center" alt="diego-linkedin" height="30" width="40" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" style="max-width:100%;">
-</a>
+<h2 align="center">ℂ𝕠𝕟𝕟𝕖𝕔𝕥 𝕨𝕚𝕥𝕙 𝕞𝕖:</h3>
+<div align="center"> 
+  <a href="https://www.youtube.com/channel/UCUwK3oD1X7pBmsYrqPNVtKA" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank">
+  </a>
+  <a href="https://instagram.com/_filipemotta_" target="_blank">
+    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
+  </a>
+ 	<a href="https://www.twitch.tv/filipefdm" target="_blank">
+    <img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank">
+  </a>
+ <a href="https://discord.gg/BGMzpBbF" target="_blank">
+   <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank">
+  </a> 
+  <a href = "mailto:femotta96@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+  </a>
+  <a href="https://www.linkedin.com/in/filipefmotta/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+  </a> 
+</div>
 
 <br>
 
-## Technologies:
-<p align="left">
+<h2 align="center">T E C H N O L O G I E S</h2>
+<div style="display: inline_block" align="center">
   <a href="https://www.w3.org/html/" target="_blank"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"        alt="css3" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img     src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_typescript_official_icon_130107.png" alt="typescript" width="40" height="40" style="max-width:100%;"></img>
-  <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
-  <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a>
-  <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>    <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-3.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-</p>
+    <img alt="HTML" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  </a>
+  <a href="https://www.w3schools.com/css/" target="_blank">
+    <img alt="CSS" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  </a>
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
+    <img alt="JavaScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  </a>
+  <a href="https://www.typescriptlang.org" target="_blank">
+    <img alt="TypeScript" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  </a>
+  <a href="https://reactjs.org/" target="_blank">
+    <img alt="React" height="40" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg">
+  </a>
+  <a href="https://reactnative.dev/" target="_blank">
+    <img alt="React Native" width="40" height="40" src="https://reactnative.dev/img/header_logo.svg" />
+  </a>
+  <a href="https://nextjs.org/" target="_blank">
+    <img alt="NextJS" width="40" height="40" src="https://raw.githubusercontent.com/tandpfun/skill-icons/main/icons/NextJS-Dark.svg" />
+  </a> 
+  <a href="https://git-scm.com/" target="_blank">
+    <img alt="Git" width="40" height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" />
+  </a>
+  <a href="https://nodejs.org" target="_blank">
+    <img alt="NodeJS" width="40" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+  </a> 
+</div>
 
-## Learning
-<img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/vuejs_original_logo_icon_146304.png" alt="vuejs" width="40" height="40" style="max-width:100%;"></img>
+<br />
 
-## My Another Skills
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_angular_icon_130754.png" alt="angular" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_ionic_icon_130522.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
-<img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_docker_icon_130643.png" alt="ionic" width="40" height="40" style="max-width:100%;"></img>
+<div align="center"> 
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=filipefdm&show_icons=true&count_private=true&theme=radical" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=filipefdm&layout=compact&langs_count=7&theme=dracula" />
+</div>
 
-![Filipe's github stats](https://github-readme-stats.vercel.app/api?username=filipefdm&show_icons=true&count_private=true&theme=radical)
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=filipefdm&label=Profile%20views&color=0e75b6&style=flat" alt="filipefdm" /> </p>
+<br />
+<div align="center">
+  <img align="center" src="https://komarev.com/ghpvc/?username=filipefdm&label=Profile%20views&color=0e75b6&style=flat" alt="filipefdm" />
+</div>
 
 
 <!--
